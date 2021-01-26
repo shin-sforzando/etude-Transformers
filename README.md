@@ -1,7 +1,6 @@
 # etude-Transformers
 
-<!-- Badges are here! -->
-![Bump Version](https://github.com/shin-sforzando/etude-Transformers/workflows/Bump%20Version/badge.svg)
+[![Bump Version](https://github.com/shin-sforzando/etude-Transformers/workflows/Bump%20Version/badge.svg)](https://github.com/shin-sforzando/etude-Transformers/actions?query=workflow:%22Bump+Version%22)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
